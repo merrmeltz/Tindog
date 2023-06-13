@@ -34,20 +34,19 @@ p {
   line-height: 1.5;
 }
 
-/* containers*/
-
-.container {
-  padding: 7% 10%;
-}
 
 /* sections */
 .white-section {
   background-color: white;
+  padding: 7% 10%;
+
 }
 
 .colored-section {
   background-color: #ff4c68;
   color: white;
+  padding: 7% 10%;
+
 }
 /* navbar */
 .navbar {
